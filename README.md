@@ -2,6 +2,7 @@
 
 
 What was done with the data was this tablou [dashboard](https://public.tableau.com/app/profile/rodolfo.perez/viz/Covid_19_16472367048360/Dashboard)
+
 It's been a while since the covid-19 arrived, the virus has grown since then, being a person interested in technology and data science enthusiast, I want to analyze the passage of time of the virus, creating an interactive panel to visualize the situation of Covid-19 in the world.
 
 ## Data
